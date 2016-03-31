@@ -1,6 +1,6 @@
 name: The Stubborn Particles
 favicon: null
-layout_spectrum: 0.11940511944703758
+layout_spectrum: 1
 typography_spectrum: 0.8562584109604359
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.16531473584473133
+  brandStrength: 0
   lightness: 0.841963336803019
   saturation: 0.3942986724432558
   rhythmicContrast: 0.2282183701172471
